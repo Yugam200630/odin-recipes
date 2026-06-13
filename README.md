@@ -15,3 +15,6 @@ A simple recipe website built with HTML as part of The Odin Project curriculum.
 
 ## Built With
 - HTML5
+
+## Live Demo
+https://yugam200630.github.io/odin-recipes/
