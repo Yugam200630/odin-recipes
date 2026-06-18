@@ -1,0 +1,35 @@
+body{ 
+    font-family: "Georgia", serif;
+
+}
+.heading{
+    width: 100%;
+    background-color: greenyellow;
+    text-align: center;
+    color: black;
+    padding: 12px;
+}
+.items{
+    background-color: yellow;
+    font-size: 20px;
+    text-align: center;
+    margin: 5px;
+    padding: 12px;
+
+}
+ img{
+    display: block;
+    margin: 0 auto;
+    padding: 12px;
+}
+p,li{
+    font-size: 18px;
+    padding: 12px;
+}
+.return_home{
+    display:block;
+    text-align: center;
+    background-color: yellow;
+    font-size: 20px;
+    padding: 12px;
+}
